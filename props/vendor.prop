@@ -188,3 +188,6 @@ persist.vendor.delta_time.enable=true
 
 # Watchdog
 ro.hw_timeout_multiplier=3
+
+# Privapp-permissions whitelist
+ro.control_privapp_permissions=log
